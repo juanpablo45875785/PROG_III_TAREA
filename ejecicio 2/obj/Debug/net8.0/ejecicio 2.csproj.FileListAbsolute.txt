@@ -1,0 +1,15 @@
+E:\User\Desktop\ejecicio 2\bin\Debug\net8.0\ejecicio 2.exe
+E:\User\Desktop\ejecicio 2\bin\Debug\net8.0\ejecicio 2.deps.json
+E:\User\Desktop\ejecicio 2\bin\Debug\net8.0\ejecicio 2.runtimeconfig.json
+E:\User\Desktop\ejecicio 2\bin\Debug\net8.0\ejecicio 2.dll
+E:\User\Desktop\ejecicio 2\bin\Debug\net8.0\ejecicio 2.pdb
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.AssemblyInfoInputs.cache
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.AssemblyInfo.cs
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.csproj.CoreCompileInputs.cache
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.dll
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\refint\ejecicio 2.dll
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.pdb
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.genruntimeconfig.cache
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ref\ejecicio 2.dll
+E:\User\Desktop\ejecicio 2\obj\Debug\net8.0\ejecicio 2.sourcelink.json
